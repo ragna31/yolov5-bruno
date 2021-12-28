@@ -1,0 +1,5 @@
+names: [potato, tomato, zucchini, onion, radish, eggplant, green_onion, red_cabbage,
+  carrot, egg, beef, pork, chicken]
+nc: 13
+train: /content/drive/MyDrive/dataset/train.txt
+val: /content/drive/MyDrive/dataset/val.txt
